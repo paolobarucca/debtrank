@@ -1,2 +1,2 @@
 # debtrank
-Matlab implementation of the algorithm described in Battiston et al. 2012.
+Matlab implementation of the algorithm described in Bardoscia et al. 2015.
